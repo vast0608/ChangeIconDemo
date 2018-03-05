@@ -13,6 +13,19 @@
 		2CAC0733204D2247008998A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0732204D2247008998A2 /* Assets.xcassets */; };
 		2CAC0736204D2247008998A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0734204D2247008998A2 /* LaunchScreen.storyboard */; };
 		2CAC0739204D2247008998A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CAC0738204D2247008998A2 /* main.m */; };
+		2CAC074A204D22C7008998A2 /* 晴@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0740204D22C6008998A2 /* 晴@3x.png */; };
+		2CAC074B204D22C7008998A2 /* 多云@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0741204D22C6008998A2 /* 多云@3x.png */; };
+		2CAC074C204D22C7008998A2 /* 雪@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0742204D22C6008998A2 /* 雪@2x.png */; };
+		2CAC074D204D22C7008998A2 /* 大雨@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0743204D22C6008998A2 /* 大雨@3x.png */; };
+		2CAC074E204D22C7008998A2 /* 小雨@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0744204D22C6008998A2 /* 小雨@2x.png */; };
+		2CAC074F204D22C7008998A2 /* 雪@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0745204D22C6008998A2 /* 雪@3x.png */; };
+		2CAC0750204D22C7008998A2 /* 大雨@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0746204D22C7008998A2 /* 大雨@2x.png */; };
+		2CAC0751204D22C7008998A2 /* 小雨@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0747204D22C7008998A2 /* 小雨@3x.png */; };
+		2CAC0752204D22C7008998A2 /* 晴@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0748204D22C7008998A2 /* 晴@2x.png */; };
+		2CAC0753204D22C7008998A2 /* 多云@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC0749204D22C7008998A2 /* 多云@2x.png */; };
+		2CAC0756204D24A7008998A2 /* ChangeIcon0.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CAC0755204D24A7008998A2 /* ChangeIcon0.m */; };
+		2CB1DE98204D24D10035E12A /* ChangeIcon1.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CB1DE97204D24D10035E12A /* ChangeIcon1.m */; };
+		2CB1DE9C204D27430035E12A /* ChangeIcon1+Present.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CB1DE9B204D27430035E12A /* ChangeIcon1+Present.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +39,22 @@
 		2CAC0735204D2247008998A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CAC0737204D2247008998A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CAC0738204D2247008998A2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2CAC0740204D22C6008998A2 /* 晴@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "晴@3x.png"; sourceTree = "<group>"; };
+		2CAC0741204D22C6008998A2 /* 多云@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "多云@3x.png"; sourceTree = "<group>"; };
+		2CAC0742204D22C6008998A2 /* 雪@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雪@2x.png"; sourceTree = "<group>"; };
+		2CAC0743204D22C6008998A2 /* 大雨@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大雨@3x.png"; sourceTree = "<group>"; };
+		2CAC0744204D22C6008998A2 /* 小雨@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小雨@2x.png"; sourceTree = "<group>"; };
+		2CAC0745204D22C6008998A2 /* 雪@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雪@3x.png"; sourceTree = "<group>"; };
+		2CAC0746204D22C7008998A2 /* 大雨@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大雨@2x.png"; sourceTree = "<group>"; };
+		2CAC0747204D22C7008998A2 /* 小雨@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小雨@3x.png"; sourceTree = "<group>"; };
+		2CAC0748204D22C7008998A2 /* 晴@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "晴@2x.png"; sourceTree = "<group>"; };
+		2CAC0749204D22C7008998A2 /* 多云@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "多云@2x.png"; sourceTree = "<group>"; };
+		2CAC0754204D24A7008998A2 /* ChangeIcon0.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChangeIcon0.h; sourceTree = "<group>"; };
+		2CAC0755204D24A7008998A2 /* ChangeIcon0.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChangeIcon0.m; sourceTree = "<group>"; };
+		2CB1DE96204D24D10035E12A /* ChangeIcon1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChangeIcon1.h; sourceTree = "<group>"; };
+		2CB1DE97204D24D10035E12A /* ChangeIcon1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChangeIcon1.m; sourceTree = "<group>"; };
+		2CB1DE9A204D27430035E12A /* ChangeIcon1+Present.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ChangeIcon1+Present.h"; sourceTree = "<group>"; };
+		2CB1DE9B204D27430035E12A /* ChangeIcon1+Present.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "ChangeIcon1+Present.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +87,17 @@
 		2CAC0728204D2247008998A2 /* ChangeIconDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2CAC073F204D22B8008998A2 /* Icon */,
 				2CAC0729204D2247008998A2 /* AppDelegate.h */,
 				2CAC072A204D2247008998A2 /* AppDelegate.m */,
 				2CAC072C204D2247008998A2 /* ViewController.h */,
 				2CAC072D204D2247008998A2 /* ViewController.m */,
+				2CAC0754204D24A7008998A2 /* ChangeIcon0.h */,
+				2CAC0755204D24A7008998A2 /* ChangeIcon0.m */,
+				2CB1DE96204D24D10035E12A /* ChangeIcon1.h */,
+				2CB1DE97204D24D10035E12A /* ChangeIcon1.m */,
+				2CB1DE9A204D27430035E12A /* ChangeIcon1+Present.h */,
+				2CB1DE9B204D27430035E12A /* ChangeIcon1+Present.m */,
 				2CAC072F204D2247008998A2 /* Main.storyboard */,
 				2CAC0732204D2247008998A2 /* Assets.xcassets */,
 				2CAC0734204D2247008998A2 /* LaunchScreen.storyboard */,
@@ -69,6 +105,23 @@
 				2CAC0738204D2247008998A2 /* main.m */,
 			);
 			path = ChangeIconDemo;
+			sourceTree = "<group>";
+		};
+		2CAC073F204D22B8008998A2 /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				2CAC0746204D22C7008998A2 /* 大雨@2x.png */,
+				2CAC0743204D22C6008998A2 /* 大雨@3x.png */,
+				2CAC0749204D22C7008998A2 /* 多云@2x.png */,
+				2CAC0741204D22C6008998A2 /* 多云@3x.png */,
+				2CAC0748204D22C7008998A2 /* 晴@2x.png */,
+				2CAC0740204D22C6008998A2 /* 晴@3x.png */,
+				2CAC0744204D22C6008998A2 /* 小雨@2x.png */,
+				2CAC0747204D22C7008998A2 /* 小雨@3x.png */,
+				2CAC0742204D22C6008998A2 /* 雪@2x.png */,
+				2CAC0745204D22C6008998A2 /* 雪@3x.png */,
+			);
+			path = Icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -130,7 +183,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CAC0736204D2247008998A2 /* LaunchScreen.storyboard in Resources */,
+				2CAC0752204D22C7008998A2 /* 晴@2x.png in Resources */,
+				2CAC0750204D22C7008998A2 /* 大雨@2x.png in Resources */,
+				2CAC074C204D22C7008998A2 /* 雪@2x.png in Resources */,
 				2CAC0733204D2247008998A2 /* Assets.xcassets in Resources */,
+				2CAC0751204D22C7008998A2 /* 小雨@3x.png in Resources */,
+				2CAC074D204D22C7008998A2 /* 大雨@3x.png in Resources */,
+				2CAC074F204D22C7008998A2 /* 雪@3x.png in Resources */,
+				2CAC074A204D22C7008998A2 /* 晴@3x.png in Resources */,
+				2CAC074E204D22C7008998A2 /* 小雨@2x.png in Resources */,
+				2CAC074B204D22C7008998A2 /* 多云@3x.png in Resources */,
+				2CAC0753204D22C7008998A2 /* 多云@2x.png in Resources */,
 				2CAC0731204D2247008998A2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,9 +205,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CB1DE98204D24D10035E12A /* ChangeIcon1.m in Sources */,
 				2CAC072E204D2247008998A2 /* ViewController.m in Sources */,
 				2CAC0739204D2247008998A2 /* main.m in Sources */,
 				2CAC072B204D2247008998A2 /* AppDelegate.m in Sources */,
+				2CB1DE9C204D27430035E12A /* ChangeIcon1+Present.m in Sources */,
+				2CAC0756204D24A7008998A2 /* ChangeIcon0.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

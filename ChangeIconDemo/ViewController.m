@@ -7,7 +7,8 @@
 //
 
 #import "ViewController.h"
-
+#import "ChangeIcon0.h"
+#import "ChangeIcon1.h"
 @interface ViewController ()
 
 @end
@@ -18,11 +19,15 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
-
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+//有弹窗的ChangeIcon
+- (IBAction)ChangeIcon0:(id)sender {
+    ChangeIcon0 *vc = [ChangeIcon0 new];
+    [self.navigationController pushViewController:vc animated:YES];
+}
+//无弹窗的ChangeIcon
+- (IBAction)ChangeIcon1:(id)sender {
+    ChangeIcon1 *vc = [ChangeIcon1 new];
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 
